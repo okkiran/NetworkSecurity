@@ -1,6 +1,6 @@
 # Computer and Network Security
 
-## CTIS-496: Computer and Network Security Class Project (Part 1 - Part 2 - Part 3):
+## CTIS-496 Computer and Network Security Class Project (Part 1 - Part 2 - Part 3)
 
 ### Part 1: Focuses on OpenPGP-based secure communication using GPG, Thunderbird, and public keyservers
 ##### Key Tasks
@@ -12,7 +12,7 @@
 - Managing key trust levels and signing each other’s public keys.
 - Verifying software authenticity using signature files and GPG.
 
-### Part 2: Focuses on public key infrastructure (PKI) and secure email communication using tools like Thunderbird, OpenSSL, and X.509 certificates.
+### Part 2: Focuses on public key infrastructure (PKI) and secure email communication with Thunderbird, OpenSSL, and X.509 certificates.
 ##### Key Tasks
 - Obtaining and managing S/MIME certificates from Actalis.
 - Configuring secure email accounts with encryption and digital signatures.
@@ -21,7 +21,7 @@
 - Analyzing Certificate Revocation Lists (CRLs).
 - Creating and inspecting self-signed certificates, or completing advanced SEED Labs on PKI.
 
-### Part 3: Applied cryptanalysis, image encryption, and secure coding standards
+### Part 3: Focuses on applied cryptanalysis, image encryption, and secure coding standards
 ##### Key Tasks Performed hand-based cryptanalysis of the Affine Cipher, including manual key recovery through algebraic equations.
 
 - Solving Affine cipher challenges using manual key recovery.
