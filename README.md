@@ -1,6 +1,6 @@
 # Computer and Network Security
 
-## CTIS-496 Computer and Network Security Class Project (Part 1 - Part 2 - Part 3)
+### CTIS-496 Computer and Network Security Project (Part 1 - Part 2 - Part 3)
 
 ### Part 1: Focuses on OpenPGP-based secure communication using GPG, Thunderbird, and public keyservers
 ##### Key Tasks
@@ -19,7 +19,7 @@
 - Extracting public certificates and working with PEM, P12 formats.
 - Inspecting web server certificates via OpenSSL.
 - Analyzing Certificate Revocation Lists (CRLs).
-- Creating and inspecting self-signed certificates, or completing advanced SEED Labs on PKI.
+- Creating and inspecting self-signed certificates, completing advanced SEED Labs on PKI.
 
 ### Part 3: Focuses on applied cryptanalysis, image encryption, and secure coding standards
 ##### Key Tasks Performed hand-based cryptanalysis of the Affine Cipher, including manual key recovery through algebraic equations.
@@ -28,6 +28,6 @@
 - Creating and encrypting substitution ciphers with custom keys.
 - Applying known plaintext attacks on permutation ciphers to find candidate keys.
 - Encrypting images with AES-128 in ECB and CBC modes using OpenSSL and GIMP.
-- Comparing visual differences in encryption modes through image analysis.
-- Documenting encryption steps using basic Linux/Unix commands.
-- Writing and commenting secure code based on SEI CERT coding standards.
+- Comparing visual differences in ECB and CBC encryption modes.
+- Documenting encryption steps with basic Linux/Unix commands.
+- Writing a secure code based on SEI CERT coding standards.
